@@ -9,3 +9,5 @@
 Sources: [The conversation](https://theconversation.com/after-75-years-isaac-asimovs-three-laws-of-robotics-need-updating-74501#:~:text=The%20Three%20Laws&text=They%20are%3A,conflict%20with%20the%20First%20Law)
 
 ## 2. Curiosity
+
+## 3. Motivation
